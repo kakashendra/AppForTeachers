@@ -1,0 +1,12 @@
+.addStudent {
+    font-size: 25px;
+    width: 65px;
+}
+.student button{
+    background-color: #fdfdfd;
+    color: #333;
+    border-radius: 12px;
+    padding: 10px 30px;
+    border: 1px;
+    margin: 4px 20% ;
+}

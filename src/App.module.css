@@ -1,0 +1,18 @@
+.secondPage {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding-bottom: 50px;
+}
+.Table {
+   padding:50px 70px;
+}
+
+.Students {
+    padding:10px 10px;
+}
+.AddStudent {
+    padding:10px 10px;
+}
+.Pages {
+    background-color: #f4f5f6;
+}
